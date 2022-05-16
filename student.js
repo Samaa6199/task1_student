@@ -21,6 +21,7 @@ const addStudent = (id,name,comment,degree,sum)=>{
                 comment : comment,
                 degree : degree,
                 sum : sum
+                
             }
         )
         savestudent(students)
